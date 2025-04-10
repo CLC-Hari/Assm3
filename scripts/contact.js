@@ -18,5 +18,5 @@ submitButton.addEventListener('click', function(event) {
     const thankYouMessage = contactPage.querySelector('p');
     thankYouMessage.style.fontSize = '24px';
     thankYouMessage.style.textAlign = 'center';
-    thankYouMessage.style.marginBottom = '40pxr'
+    thankYouMessage.style.marginBottom = '350px';
 });
